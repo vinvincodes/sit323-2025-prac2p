@@ -1,10 +1,10 @@
-# SIT323-2025-Prac2P: Build Simple Node.js webserver
+# 2.1P: Build Simple Node.js webserver
 
-## Project overview
+# Project overview
 
 This task is serving a simple HTML by creating a web server with Node.js, this will use Express framework.
 
-# Tool used
+## Tool used
 
 - Git & github
 - vscode
@@ -136,7 +136,7 @@ app.listen(port, () => {
 1. Start the server on the terminal: `node server.js`
 2. http://localhost:3000
 
-## Push your code to GitHub
+## Push your code to GitHub for updated
 
 1. Run the following Git commands:
 
