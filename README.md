@@ -61,8 +61,13 @@ git -v
 3. Run these commands to initialise the project:
 
 ```
+# make a new Git project in your folder.
 git init
+
+# this tells Git where you want to save your work on GitHub
 git remote add origin https://github.com/your-username/sit323-2025-prac2p
+
+# to get the latest files from Github and put themin your folder
 git pull origin main
 
 ```
@@ -141,9 +146,16 @@ app.listen(port, () => {
 1. Run the following Git commands:
 
 ```
+# To selects all your new files, and get ready to save
 git add .
+
+# to saves the snapshot to your project with a message
 git commit -m "Node.js webserver Added"
+
+# rename the current branch to "main"
 git branch -M main
+
+# Finally, uploads your saved project to GitHub
 git push origin main
 
 ```
