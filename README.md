@@ -85,6 +85,7 @@ cd any_Path/sit323-2025-prac2p
 ```
 npm init -y
 ```
+![image alt](https://github.com/vinvincodes/sit323-2025-prac2p/blob/cbe7d575d3897c775dac36986e2928201a55a14c/npm%20init%20-y%20to%20create%20a%20package%20json.png)
 
 3. Install express.js -- to install the `package-lock.json` file
 
@@ -141,6 +142,8 @@ app.listen(port, () => {
 
 1. Start the server on the terminal: `node server.js`
 2. http://localhost:3000
+
+![image alt](https://github.com/vinvincodes/sit323-2025-prac2p/blob/cbe7d575d3897c775dac36986e2928201a55a14c/welcome%20to%20my%20webserver%20by%20express.png)
 
 ## Push your code to GitHub for updated
 
