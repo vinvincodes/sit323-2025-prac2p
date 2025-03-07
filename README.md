@@ -91,6 +91,7 @@ npm init -y
 ```
 npm install express
 ```
+![image alt](https://github.com/vinvincodes/sit323-2025-prac2p/blob/cbe7d575d3897c775dac36986e2928201a55a14c/install%20expressjs_npm%20install%20express.png)
 
 ## Create a Simple webserver using Express.js
 
